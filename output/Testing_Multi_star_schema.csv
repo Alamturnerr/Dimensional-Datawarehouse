@@ -1,0 +1,5 @@
+"factory_sk","factory_code","factory_name","factory_street_address","factory_zip_code","factory_city","factory_state","effective_date","expiry_date"
+1,1,"First Factory                 ","11111 Lichtman St.                                ",17050,"Mechanicsburg                 ","PA","2007-03-16","9999-12-31"
+2,2,"Second Factory                ","22222 Stobosky Ave.                               ",17055,"Pittsburgh                    ","PA","2007-03-16","9999-12-31"
+3,3,"Third Factory                 ","33333 Fritze Rd.                                  ",17050,"Mechanicsburg                 ","PA","2007-03-16","9999-12-31"
+4,4,"Fourth Factory                ","44444 Jenzen Blvd.                                ",17055,"Pittsburgh                    ","PA","2007-03-16","9999-12-31"
