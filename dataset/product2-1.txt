@@ -1,0 +1,3 @@
+PRODUCT CODE,PRODUCT NAME,PRODUCT GROUP
+1          Hard Disk                     Storage
+2          Floppy Drive                  Storage

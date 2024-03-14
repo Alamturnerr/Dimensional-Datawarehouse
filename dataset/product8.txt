@@ -1,0 +1,5 @@
+PRODUCT CODE,PRODUCT NAME,PRODUCT GROUP
+1          Hard Disk Drive               Storage                  
+2          Floppy Drive                  Storage
+3          Flat Panel                    Monitor
+4          Keyboard                      Peripheral

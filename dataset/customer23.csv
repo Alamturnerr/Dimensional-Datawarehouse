@@ -1,0 +1,16 @@
+CUSTOMER NO,CUSTOMER NAME,STREET ADDRESS,ZIP CODE,CITY,STATE,SHIPPING ADDRESS,ZIP CODE,CITY,STATE
+1,Really Large Customers,7500 Louise Dr.,17050,Mechanicsburg,PA,7500 Louise Dr.,17050,Mechanicsburg,PA
+2,Small Stores,2500 Woodland St.,17055,Pittsburgh,PA,2500 Woodland St.,17055,Pittsburgh,PA
+3,Medium Retailers,1111 Ritter Rd.,17055,Pittsburgh,PA,1111 Ritter Rd.,17055,Pittsburgh,PA
+4,Good Companies,9999 Louise Dr.,17055,Pittsburgh,PA,9999 Louise Dr.,17055,Pittsburgh,PA
+5,Wonderful Shops,3333 Rossmoyne Rd.,17050,Mechanicsburg,PA,3333 Rossmoyne Rd.,17050,Mechanicsburg,PA
+6,Extremely Loyal Clients,7777 Ritter Rd.,17055,Pittsburgh,PA,7777 Ritter Rd.,17055,Pittsburgh,PA
+7,Distinguished Agencies,9999 Scott St.,17050,Mechanicsburg,PA,9999 Scott St.,17050,Mechanicsburg,PA
+8,Subsidiaries,10000 Wetline Blvd.,17055,Pittsburgh,PA,10000 Wetline Blvd.,17055,Pittsburgh,PA
+9,E-Distributors,2323 Louise Dr.,17055,Pittsburgh,PA,2323 Louise Dr.,17055,Pittsburgh,PA
+10,Bigger Customers,7777 Ridge Rd.,44102,Cleveland,OH,7777 Ridge Rd.,44102,Cleveland,OH
+11,Smaller Stores,8888 Jennings Fwy.,44102,Cleveland,OH,8888 Jennings Fwy.,44102,Cleveland,OH
+12,Small-Medium Retailers,9999 Memphis Ave.,44102,Cleveland,OH,9999 Memphis Ave.,44102,Cleveland,OH
+13,PA Customer,1111 Louise Dr.,17050,Mechanicsburg,PA,1111 Louise Dr.,17050,Mechanicsburg,PA
+14,OH Customer,6666 Ridge Rd.,44102,Cleveland,OH,6666 Ridge Rd.,44102,Cleveland,OH
+15,Super Stores,1000 Woodland St.,17055,Pittsburgh,PA,1000 Woodland St.,17055,Pittsburgh,PA
